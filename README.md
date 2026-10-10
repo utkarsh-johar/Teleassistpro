@@ -111,10 +111,12 @@ To link with a live Supabase project:
 ## 🏆 Demo Walkthrough for SIH Evaluators
 
 1. **Login**: Click *"Quick Demo Login (Rajesh Verma)"* on the `/login` screen.
-2. **Action Engine**: Check the top badges and the gamified level progress bar.
-3. **In-App Call**: Tap *"Call Client"* on Ramesh Kumar -> return to tab -> Call Wrap-Up modal appears -> Click *"Generate AI Call Summary"* -> Click *"Save Call & Earn +15 XP"*.
-4. **KYC OCR**: Navigate to KYC Drop-Box -> Upload a sample Aadhaar/PAN photo -> Observe automatic canvas watermarking and DOB mismatch detector.
-5. **Smart Quote Tracker**: Go to `/quote/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa` -> Copy link or open `/view/quote-sharma-936` -> Review interactive quote with Ask AI Q&A.
-6. **Realtime Lead Capture**: Open `/card/rajesh-verma` in a separate window -> Submit consultation form -> Listen for the audio chime and observe the real-time *"🔴 New Lead Captured"* toast on the agent screen.
-7. **80C Tax PDF**: Go to Ramesh Kumar's profile -> Click *"80C Tax Proof"* -> Click *"Generate & Download 80C Tax PDF"*.
-8. **Revival Calculator**: Go to `/tools/revival` -> Review 8% late fee breakdown -> Send WhatsApp revival reminder.
+2. Email Address: rajesh.lic@gmail.com
+Password: lic123456
+3. **Action Engine**: Check the top badges and the gamified level progress bar.
+4. **In-App Call**: Tap *"Call Client"* on Ramesh Kumar -> return to tab -> Call Wrap-Up modal appears -> Click *"Generate AI Call Summary"* -> Click *"Save Call & Earn +15 XP"*.
+5. **KYC OCR**: Navigate to KYC Drop-Box -> Upload a sample Aadhaar/PAN photo -> Observe automatic canvas watermarking and DOB mismatch detector.
+6. **Smart Quote Tracker**: Go to `/quote/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa` -> Copy link or open `/view/quote-sharma-936` -> Review interactive quote with Ask AI Q&A.
+7. **Realtime Lead Capture**: Open `/card/rajesh-verma` in a separate window -> Submit consultation form -> Listen for the audio chime and observe the real-time *"🔴 New Lead Captured"* toast on the agent screen.
+8. **80C Tax PDF**: Go to Ramesh Kumar's profile -> Click *"80C Tax Proof"* -> Click *"Generate & Download 80C Tax PDF"*.
+9. **Revival Calculator**: Go to `/tools/revival` -> Review 8% late fee breakdown -> Send WhatsApp revival reminder.
